@@ -1,4 +1,4 @@
 function Cat(){
-
+	this.stomash = [];
 }
-module.exports = Cat;
+module.exports = Cat; 
