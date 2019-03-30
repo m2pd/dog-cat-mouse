@@ -1,3 +1,4 @@
-function(){
-	
+function Cat(){
+
 }
+module.exports = Cat;
